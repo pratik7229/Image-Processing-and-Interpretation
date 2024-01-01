@@ -1,2 +1,6 @@
 # Image-Processing-and-Interpretation
 Comprehensive Image Processing Repository with Implementation of Smoothing, Sharpening, Histogram Equalization, Histogram Specification, and Filtering Techniques in Frequency and Spatial Domains
+- Description: Explore our comprehensive image processing repository that features code implementations of various techniques for image enhancement and interpretation. The repository includes algorithms for smoothing, sharpening, histogram equalization, histogram specification, and filtering, both in the frequency and spatial domains. 
+- Dataset Availability: All experiments are conducted on diverse datasets, conveniently organized in the "dataset" folder within the repository. This ensures transparency and reproducibility of the results. 
+- Reports: In-depth reports for each implementation are provided, offering detailed insights into the methodologies, experimental setups, and outcomes of the image processing techniques applied. These reports serve as valuable resources for understanding the nuances of each algorithm and their impact on the processed images.
+Whether you are a researcher, student, or enthusiast in the field of image processing, this repository offers a rich collection of code implementations, datasets, and reports to facilitate learning and experimentation.
